@@ -1,3 +1,5 @@
+# Spotify Lyrics Translator
+
 This project uses the Spotify API and the Genius lyrics API to identify a song and find its lyrics, and then translates the lyrics to English if they are not already in English.
 
 ## Features
